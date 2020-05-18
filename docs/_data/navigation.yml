@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: Info
+    url: /about/
+
+#docs:
+#  - title: Proyects
+#    children:
+#      - title: Check it out
+#        url: /
+#
+
+#  - title: About
+#    children:
+#    - title: Info
+#      url: /references/
